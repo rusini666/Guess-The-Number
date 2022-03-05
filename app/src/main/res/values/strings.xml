@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="info">Please select the number of digits.
+        The number of digits that I keep in my mind and
+        the number of digits you choose will be the same. Also.
+        never forget that you have 10 tries.</string>
+    <string name="start">START</string>
+    <string name="two_digit_number">Two Digit Number</string>
+    <string name="three_digit_number">Three Digit Number</string>
+    <string name="four_digit_number">Four Digit Number</string>
+</resources>
